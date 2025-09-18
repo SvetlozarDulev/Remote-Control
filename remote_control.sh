@@ -1,10 +1,5 @@
 #!/bin/bash
 
-#Student name:Svetlozar Dulev
-#Student code: s10
-#Class code: TCB-2503
-#Lecture's name: Ivan Blagoev
-
 #1.1 Install the needed applications
 #1.2 If the application are already installed, don't install them again
 echo -e "\e[31mFirst update the package list and then upgrades all installed packages to the latest versions\e[0m"
